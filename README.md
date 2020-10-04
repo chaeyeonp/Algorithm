@@ -32,7 +32,7 @@
 
 | 링크|https://docs.google.com/spreadsheets/d/118Yw9g9TCUZZOE8OQa8e3kPhNLPfiEejBVs2Vy_clxM/edit#gid=0 | 
 | :-----: | :-: |
-| commit|| 
+| commit|https://github.com/chaeyeonp/daily_algorithm/blob/master/Algorithm%20Step2.ipynb| 
 
 
 ## 🔗 SQL
