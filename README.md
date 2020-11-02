@@ -31,8 +31,8 @@
 
 | 링크|https://github.com/chaeyeonp/daily_algorithm/blob/master/04.DFS_BFS.ipynb| 
 | :-----: | :-: |
-| DFS|깊이 우선 탐색| 
-| BFS|너비 우선 탐색| 
+| DFS|깊이 우선 탐색/Stack : Last In First Out | 
+| BFS|너비 우선 탐색/ Que: First In First Out| 
 
 
 #### 5. 최단 경로 & 그래프
@@ -54,7 +54,7 @@
 
 | 링크|https://github.com/chaeyeonp/daily_algorithm/blob/master/07.Greedy_Algorithm%26%20Implementation.ipynb
 | :-----: | :-: |
-| 설명|현재 상황에서 당장 좋은 것만 고르는 방법| 
+| 설명|단순히 가장 좋아 보이는 것을 반복적으로 선택해도 최적의 해를 구할 수 있는지 검토| 
 
 ### 📚 Playdata
 
